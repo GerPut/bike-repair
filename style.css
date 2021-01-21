@@ -150,3 +150,9 @@ margin-top: 10px 10px;
     box-sizing: border-box;
     margin-top: 50px;
 }
+
+.tbox :last-child {
+    font-size: 0.8rem;
+}
+
+
